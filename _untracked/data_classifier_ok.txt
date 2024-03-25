@@ -1,0 +1,1391 @@
+Accuracy: 0.4653846153846154 cfg =  {'model_name': 'gpt2', 'inference_max_len': 10, 'dataset_datapoints_num': 10}
+Success: gpt2, 10, 10
+Accuracy: 0.5938461538461538 cfg =  {'model_name': 'gpt2', 'inference_max_len': 10, 'dataset_datapoints_num': 50}
+Success: gpt2, 10, 50
+Accuracy: 0.68 cfg =  {'model_name': 'gpt2', 'inference_max_len': 10, 'dataset_datapoints_num': 100}
+Success: gpt2, 10, 100
+Accuracy: 0.7890769230769231 cfg =  {'model_name': 'gpt2', 'inference_max_len': 10, 'dataset_datapoints_num': 250}
+Success: gpt2, 10, 250
+Accuracy: 0.8001538461538461 cfg =  {'model_name': 'gpt2', 'inference_max_len': 10, 'dataset_datapoints_num': 500}
+Success: gpt2, 10, 500
+Accuracy: 0.8644615384615385 cfg =  {'model_name': 'gpt2', 'inference_max_len': 10, 'dataset_datapoints_num': 1000}
+Success: gpt2, 10, 1000
+Accuracy: 0.8645961538461538 cfg =  {'model_name': 'gpt2', 'inference_max_len': 10, 'dataset_datapoints_num': 2000}
+Success: gpt2, 10, 2000
+Accuracy: 0.5173076923076924 cfg =  {'model_name': 'gpt2', 'inference_max_len': 20, 'dataset_datapoints_num': 10}
+Success: gpt2, 20, 10
+Accuracy: 0.67 cfg =  {'model_name': 'gpt2', 'inference_max_len': 20, 'dataset_datapoints_num': 50}
+Success: gpt2, 20, 50
+Accuracy: 0.76 cfg =  {'model_name': 'gpt2', 'inference_max_len': 20, 'dataset_datapoints_num': 100}
+Success: gpt2, 20, 100
+Accuracy: 0.8616153846153846 cfg =  {'model_name': 'gpt2', 'inference_max_len': 20, 'dataset_datapoints_num': 250}
+Success: gpt2, 20, 250
+Accuracy: 0.8780769230769231 cfg =  {'model_name': 'gpt2', 'inference_max_len': 20, 'dataset_datapoints_num': 500}
+Success: gpt2, 20, 500
+Warning: 641th data is too short
+Accuracy: 0.8746823746823746 cfg =  {'model_name': 'gpt2', 'inference_max_len': 20, 'dataset_datapoints_num': 1000}
+Success: gpt2, 20, 1000
+Warning: 566th data is too short
+Accuracy: 0.8601800900450225 cfg =  {'model_name': 'gpt2', 'inference_max_len': 20, 'dataset_datapoints_num': 2000}
+Success: gpt2, 20, 2000
+Accuracy: 0.5064102564102564 cfg =  {'model_name': 'gpt2', 'inference_max_len': 30, 'dataset_datapoints_num': 10}
+Success: gpt2, 30, 10
+Accuracy: 0.7717948717948718 cfg =  {'model_name': 'gpt2', 'inference_max_len': 30, 'dataset_datapoints_num': 50}
+Success: gpt2, 30, 50
+Accuracy: 0.835 cfg =  {'model_name': 'gpt2', 'inference_max_len': 30, 'dataset_datapoints_num': 100}
+Success: gpt2, 30, 100
+Accuracy: 0.8876923076923077 cfg =  {'model_name': 'gpt2', 'inference_max_len': 30, 'dataset_datapoints_num': 250}
+Success: gpt2, 30, 250
+Warning: 78th data is too short
+Accuracy: 0.7243204357432814 cfg =  {'model_name': 'gpt2', 'inference_max_len': 30, 'dataset_datapoints_num': 500}
+Success: gpt2, 30, 500
+Accuracy: 0.9169358974358974 cfg =  {'model_name': 'gpt2', 'inference_max_len': 30, 'dataset_datapoints_num': 1000}
+Success: gpt2, 30, 1000
+Warning: 186th data is too short
+Warning: 1489th data is too short
+Warning: 1506th data is too short
+Accuracy: 0.9256898167764467 cfg =  {'model_name': 'gpt2', 'inference_max_len': 30, 'dataset_datapoints_num': 2000}
+Success: gpt2, 30, 2000
+Accuracy: 0.6173076923076923 cfg =  {'model_name': 'gpt2', 'inference_max_len': 40, 'dataset_datapoints_num': 10}
+Success: gpt2, 40, 10
+Accuracy: 0.796923076923077 cfg =  {'model_name': 'gpt2', 'inference_max_len': 40, 'dataset_datapoints_num': 50}
+Success: gpt2, 40, 50
+Accuracy: 0.8436538461538462 cfg =  {'model_name': 'gpt2', 'inference_max_len': 40, 'dataset_datapoints_num': 100}
+Success: gpt2, 40, 100
+Warning: 222th data is too short
+Accuracy: 0.8444933580475749 cfg =  {'model_name': 'gpt2', 'inference_max_len': 40, 'dataset_datapoints_num': 250}
+Success: gpt2, 40, 250
+Warning: 51th data is too short
+Warning: 98th data is too short
+Accuracy: 0.9118975903614458 cfg =  {'model_name': 'gpt2', 'inference_max_len': 40, 'dataset_datapoints_num': 500}
+Success: gpt2, 40, 500
+Warning: 165th data is too short
+Warning: 592th data is too short
+Warning: 848th data is too short
+Accuracy: 0.9256230229148985 cfg =  {'model_name': 'gpt2', 'inference_max_len': 40, 'dataset_datapoints_num': 1000}
+Success: gpt2, 40, 1000
+Warning: 374th data is too short
+Warning: 385th data is too short
+Warning: 613th data is too short
+Warning: 929th data is too short
+Warning: 965th data is too short
+Warning: 1651th data is too short
+Warning: 1851th data is too short
+Accuracy: 0.8989974526226407 cfg =  {'model_name': 'gpt2', 'inference_max_len': 40, 'dataset_datapoints_num': 2000}
+Success: gpt2, 40, 2000
+Accuracy: 0.7269230769230769 cfg =  {'model_name': 'gpt2', 'inference_max_len': 50, 'dataset_datapoints_num': 10}
+Success: gpt2, 50, 10
+Accuracy: 0.8203076923076923 cfg =  {'model_name': 'gpt2', 'inference_max_len': 50, 'dataset_datapoints_num': 50}
+Success: gpt2, 50, 50
+Accuracy: 0.8696923076923077 cfg =  {'model_name': 'gpt2', 'inference_max_len': 50, 'dataset_datapoints_num': 100}
+Success: gpt2, 50, 100
+Accuracy: 0.9103076923076923 cfg =  {'model_name': 'gpt2', 'inference_max_len': 50, 'dataset_datapoints_num': 250}
+Success: gpt2, 50, 250
+Warning: 127th data is too short
+Warning: 336th data is too short
+Warning: 389th data is too short
+Warning: 475th data is too short
+Accuracy: 0.9081885856079405 cfg =  {'model_name': 'gpt2', 'inference_max_len': 50, 'dataset_datapoints_num': 500}
+Success: gpt2, 50, 500
+Warning: 264th data is too short
+Warning: 535th data is too short
+Warning: 559th data is too short
+Warning: 659th data is too short
+Warning: 840th data is too short
+Accuracy: 0.898577502899111 cfg =  {'model_name': 'gpt2', 'inference_max_len': 50, 'dataset_datapoints_num': 1000}
+Success: gpt2, 50, 1000
+Warning: 14th data is too short
+Warning: 230th data is too short
+Warning: 425th data is too short
+Warning: 612th data is too short
+Warning: 859th data is too short
+Warning: 868th data is too short
+Warning: 912th data is too short
+Warning: 928th data is too short
+Warning: 1348th data is too short
+Warning: 1357th data is too short
+Warning: 1556th data is too short
+Warning: 1833th data is too short
+Accuracy: 0.9434568952174586 cfg =  {'model_name': 'gpt2', 'inference_max_len': 50, 'dataset_datapoints_num': 2000}
+Success: gpt2, 50, 2000
+Accuracy: 0.7680769230769231 cfg =  {'model_name': 'gpt2', 'inference_max_len': 100, 'dataset_datapoints_num': 10}
+Success: gpt2, 100, 10
+Warning: 3th data is too short
+Warning: 34th data is too short
+Warning: 35th data is too short
+Accuracy: 0.8489361702127659 cfg =  {'model_name': 'gpt2', 'inference_max_len': 100, 'dataset_datapoints_num': 50}
+Success: gpt2, 100, 50
+Warning: 1th data is too short
+Warning: 23th data is too short
+Warning: 28th data is too short
+Warning: 34th data is too short
+Warning: 43th data is too short
+Warning: 78th data is too short
+Warning: 80th data is too short
+Warning: 81th data is too short
+Accuracy: 0.8406772575250836 cfg =  {'model_name': 'gpt2', 'inference_max_len': 100, 'dataset_datapoints_num': 100}
+Success: gpt2, 100, 100
+Warning: 28th data is too short
+Warning: 59th data is too short
+Warning: 114th data is too short
+Warning: 126th data is too short
+Warning: 132th data is too short
+Warning: 161th data is too short
+Warning: 168th data is too short
+Warning: 189th data is too short
+Warning: 193th data is too short
+Warning: 194th data is too short
+Warning: 203th data is too short
+Warning: 206th data is too short
+Warning: 240th data is too short
+Warning: 241th data is too short
+Accuracy: 0.8995273794002607 cfg =  {'model_name': 'gpt2', 'inference_max_len': 100, 'dataset_datapoints_num': 250}
+Success: gpt2, 100, 250
+Warning: 50th data is too short
+Warning: 79th data is too short
+Warning: 88th data is too short
+Warning: 90th data is too short
+Warning: 103th data is too short
+Warning: 142th data is too short
+Warning: 145th data is too short
+Warning: 149th data is too short
+Warning: 165th data is too short
+Warning: 168th data is too short
+Warning: 172th data is too short
+Warning: 176th data is too short
+Warning: 191th data is too short
+Warning: 196th data is too short
+Warning: 197th data is too short
+Warning: 213th data is too short
+Warning: 216th data is too short
+Warning: 220th data is too short
+Warning: 228th data is too short
+Warning: 245th data is too short
+Warning: 261th data is too short
+Warning: 263th data is too short
+Warning: 268th data is too short
+Warning: 289th data is too short
+Warning: 292th data is too short
+Warning: 299th data is too short
+Warning: 310th data is too short
+Warning: 318th data is too short
+Warning: 335th data is too short
+Warning: 336th data is too short
+Warning: 342th data is too short
+Warning: 361th data is too short
+Warning: 366th data is too short
+Warning: 369th data is too short
+Warning: 385th data is too short
+Warning: 388th data is too short
+Warning: 401th data is too short
+Warning: 404th data is too short
+Warning: 407th data is too short
+Warning: 420th data is too short
+Warning: 426th data is too short
+Warning: 451th data is too short
+Warning: 458th data is too short
+Warning: 467th data is too short
+Warning: 481th data is too short
+Warning: 485th data is too short
+Warning: 499th data is too short
+Accuracy: 0.947597215146884 cfg =  {'model_name': 'gpt2', 'inference_max_len': 100, 'dataset_datapoints_num': 500}
+Success: gpt2, 100, 500
+Warning: 26th data is too short
+Warning: 47th data is too short
+Warning: 78th data is too short
+Warning: 82th data is too short
+Warning: 108th data is too short
+Warning: 121th data is too short
+Warning: 124th data is too short
+Warning: 132th data is too short
+Warning: 140th data is too short
+Warning: 144th data is too short
+Warning: 147th data is too short
+Warning: 158th data is too short
+Warning: 167th data is too short
+Warning: 175th data is too short
+Warning: 182th data is too short
+Warning: 234th data is too short
+Warning: 281th data is too short
+Warning: 287th data is too short
+Warning: 289th data is too short
+Warning: 351th data is too short
+Warning: 367th data is too short
+Warning: 386th data is too short
+Warning: 401th data is too short
+Warning: 461th data is too short
+Warning: 473th data is too short
+Warning: 480th data is too short
+Warning: 499th data is too short
+Warning: 510th data is too short
+Warning: 523th data is too short
+Warning: 525th data is too short
+Warning: 538th data is too short
+Warning: 543th data is too short
+Warning: 552th data is too short
+Warning: 560th data is too short
+Warning: 563th data is too short
+Warning: 589th data is too short
+Warning: 603th data is too short
+Warning: 607th data is too short
+Warning: 611th data is too short
+Warning: 612th data is too short
+Warning: 636th data is too short
+Warning: 651th data is too short
+Warning: 674th data is too short
+Warning: 692th data is too short
+Warning: 699th data is too short
+Warning: 762th data is too short
+Warning: 763th data is too short
+Warning: 794th data is too short
+Warning: 818th data is too short
+Warning: 856th data is too short
+Warning: 880th data is too short
+Warning: 887th data is too short
+Warning: 900th data is too short
+Warning: 911th data is too short
+Warning: 919th data is too short
+Warning: 925th data is too short
+Warning: 926th data is too short
+Warning: 927th data is too short
+Warning: 932th data is too short
+Warning: 938th data is too short
+Warning: 941th data is too short
+Warning: 955th data is too short
+Warning: 997th data is too short
+Accuracy: 0.9326204745094819 cfg =  {'model_name': 'gpt2', 'inference_max_len': 100, 'dataset_datapoints_num': 1000}
+Success: gpt2, 100, 1000
+Warning: 23th data is too short
+Warning: 64th data is too short
+Warning: 65th data is too short
+Warning: 103th data is too short
+Warning: 123th data is too short
+Warning: 125th data is too short
+Warning: 137th data is too short
+Warning: 143th data is too short
+Warning: 146th data is too short
+Warning: 148th data is too short
+Warning: 151th data is too short
+Warning: 153th data is too short
+Warning: 171th data is too short
+Warning: 187th data is too short
+Warning: 189th data is too short
+Warning: 214th data is too short
+Warning: 228th data is too short
+Warning: 231th data is too short
+Warning: 301th data is too short
+Warning: 308th data is too short
+Warning: 314th data is too short
+Warning: 353th data is too short
+Warning: 358th data is too short
+Warning: 365th data is too short
+Warning: 402th data is too short
+Warning: 412th data is too short
+Warning: 422th data is too short
+Warning: 472th data is too short
+Warning: 475th data is too short
+Warning: 484th data is too short
+Warning: 514th data is too short
+Warning: 523th data is too short
+Warning: 549th data is too short
+Warning: 555th data is too short
+Warning: 570th data is too short
+Warning: 574th data is too short
+Warning: 589th data is too short
+Warning: 603th data is too short
+Warning: 607th data is too short
+Warning: 621th data is too short
+Warning: 631th data is too short
+Warning: 648th data is too short
+Warning: 649th data is too short
+Warning: 696th data is too short
+Warning: 706th data is too short
+Warning: 723th data is too short
+Warning: 726th data is too short
+Warning: 744th data is too short
+Warning: 781th data is too short
+Warning: 806th data is too short
+Warning: 820th data is too short
+Warning: 821th data is too short
+Warning: 839th data is too short
+Warning: 896th data is too short
+Warning: 901th data is too short
+Warning: 902th data is too short
+Warning: 921th data is too short
+Warning: 922th data is too short
+Warning: 959th data is too short
+Warning: 972th data is too short
+Warning: 986th data is too short
+Warning: 993th data is too short
+Warning: 997th data is too short
+Warning: 1006th data is too short
+Warning: 1047th data is too short
+Warning: 1067th data is too short
+Warning: 1095th data is too short
+Warning: 1113th data is too short
+Warning: 1126th data is too short
+Warning: 1132th data is too short
+Warning: 1142th data is too short
+Warning: 1148th data is too short
+Warning: 1155th data is too short
+Warning: 1167th data is too short
+Warning: 1168th data is too short
+Warning: 1175th data is too short
+Warning: 1190th data is too short
+Warning: 1192th data is too short
+Warning: 1219th data is too short
+Warning: 1231th data is too short
+Warning: 1234th data is too short
+Warning: 1257th data is too short
+Warning: 1271th data is too short
+Warning: 1288th data is too short
+Warning: 1289th data is too short
+Warning: 1298th data is too short
+Warning: 1303th data is too short
+Warning: 1338th data is too short
+Warning: 1340th data is too short
+Warning: 1347th data is too short
+Warning: 1375th data is too short
+Warning: 1391th data is too short
+Warning: 1396th data is too short
+Warning: 1409th data is too short
+Warning: 1420th data is too short
+Warning: 1470th data is too short
+Warning: 1481th data is too short
+Warning: 1492th data is too short
+Warning: 1520th data is too short
+Warning: 1530th data is too short
+Warning: 1549th data is too short
+Warning: 1556th data is too short
+Warning: 1563th data is too short
+Warning: 1639th data is too short
+Warning: 1662th data is too short
+Warning: 1666th data is too short
+Warning: 1687th data is too short
+Warning: 1749th data is too short
+Warning: 1767th data is too short
+Warning: 1768th data is too short
+Warning: 1781th data is too short
+Warning: 1825th data is too short
+Warning: 1834th data is too short
+Warning: 1849th data is too short
+Warning: 1858th data is too short
+Warning: 1886th data is too short
+Warning: 1894th data is too short
+Warning: 1916th data is too short
+Warning: 1928th data is too short
+Warning: 1940th data is too short
+Warning: 1961th data is too short
+Warning: 1970th data is too short
+Warning: 1973th data is too short
+Warning: 1981th data is too short
+Accuracy: 0.9521485976709857 cfg =  {'model_name': 'gpt2', 'inference_max_len': 100, 'dataset_datapoints_num': 2000}
+Success: gpt2, 100, 2000
+Accuracy: 0.292 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 10, 'dataset_datapoints_num': 10}
+Success: gpt2-medium, 10, 10
+Accuracy: 0.412 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 10, 'dataset_datapoints_num': 50}
+Success: gpt2-medium, 10, 50
+Accuracy: 0.4894 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 10, 'dataset_datapoints_num': 100}
+Success: gpt2-medium, 10, 100
+Accuracy: 0.65016 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 10, 'dataset_datapoints_num': 250}
+Success: gpt2-medium, 10, 250
+Accuracy: 0.69728 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 10, 'dataset_datapoints_num': 500}
+Success: gpt2-medium, 10, 500
+Accuracy: 0.73338 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 10, 'dataset_datapoints_num': 1000}
+Success: gpt2-medium, 10, 1000
+Accuracy: 0.77972 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 10, 'dataset_datapoints_num': 2000}
+Success: gpt2-medium, 10, 2000
+Accuracy: 0.371 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 20, 'dataset_datapoints_num': 10}
+Success: gpt2-medium, 20, 10
+Accuracy: 0.5466 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 20, 'dataset_datapoints_num': 50}
+Success: gpt2-medium, 20, 50
+Accuracy: 0.5892 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 20, 'dataset_datapoints_num': 100}
+Success: gpt2-medium, 20, 100
+Accuracy: 0.68744 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 20, 'dataset_datapoints_num': 250}
+Success: gpt2-medium, 20, 250
+Accuracy: 0.74776 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 20, 'dataset_datapoints_num': 500}
+Success: gpt2-medium, 20, 500
+Warning: 479th data is too short
+Accuracy: 0.7901601601601601 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 20, 'dataset_datapoints_num': 1000}
+Success: gpt2-medium, 20, 1000
+Warning: 471th data is too short
+Warning: 1252th data is too short
+Accuracy: 0.7961111111111111 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 20, 'dataset_datapoints_num': 2000}
+Success: gpt2-medium, 20, 2000
+Accuracy: 0.4126666666666667 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 30, 'dataset_datapoints_num': 10}
+Success: gpt2-medium, 30, 10
+Accuracy: 0.5865333333333334 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 30, 'dataset_datapoints_num': 50}
+Success: gpt2-medium, 30, 50
+Accuracy: 0.6065333333333334 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 30, 'dataset_datapoints_num': 100}
+Success: gpt2-medium, 30, 100
+Accuracy: 0.7670666666666667 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 30, 'dataset_datapoints_num': 250}
+Success: gpt2-medium, 30, 250
+Warning: 10th data is too short
+Warning: 336th data is too short
+Accuracy: 0.8059973226238286 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 30, 'dataset_datapoints_num': 500}
+Success: gpt2-medium, 30, 500
+Warning: 544th data is too short
+Warning: 716th data is too short
+Accuracy: 0.8672144288577154 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 30, 'dataset_datapoints_num': 1000}
+Success: gpt2-medium, 30, 1000
+Warning: 100th data is too short
+Warning: 233th data is too short
+Warning: 699th data is too short
+Warning: 1296th data is too short
+Accuracy: 0.8686072144288577 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 30, 'dataset_datapoints_num': 2000}
+Success: gpt2-medium, 30, 2000
+Accuracy: 0.4675 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 40, 'dataset_datapoints_num': 10}
+Success: gpt2-medium, 40, 10
+Accuracy: 0.6611 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 40, 'dataset_datapoints_num': 50}
+Success: gpt2-medium, 40, 50
+Accuracy: 0.70335 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 40, 'dataset_datapoints_num': 100}
+Success: gpt2-medium, 40, 100
+Warning: 102th data is too short
+Warning: 146th data is too short
+Accuracy: 0.7785887096774193 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 40, 'dataset_datapoints_num': 250}
+Success: gpt2-medium, 40, 250
+Warning: 406th data is too short
+Accuracy: 0.8242685370741483 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 40, 'dataset_datapoints_num': 500}
+Success: gpt2-medium, 40, 500
+Warning: 27th data is too short
+Accuracy: 0.8311911911911912 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 40, 'dataset_datapoints_num': 1000}
+Success: gpt2-medium, 40, 1000
+Warning: 191th data is too short
+Warning: 455th data is too short
+Warning: 523th data is too short
+Warning: 804th data is too short
+Warning: 899th data is too short
+Accuracy: 0.8444912280701754 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 40, 'dataset_datapoints_num': 2000}
+Success: gpt2-medium, 40, 2000
+Accuracy: 0.5168 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 50, 'dataset_datapoints_num': 10}
+Success: gpt2-medium, 50, 10
+Accuracy: 0.71792 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 50, 'dataset_datapoints_num': 50}
+Success: gpt2-medium, 50, 50
+Warning: 84th data is too short
+Accuracy: 0.7593131313131313 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 50, 'dataset_datapoints_num': 100}
+Success: gpt2-medium, 50, 100
+Warning: 136th data is too short
+Accuracy: 0.7408192771084338 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 50, 'dataset_datapoints_num': 250}
+Success: gpt2-medium, 50, 250
+Warning: 71th data is too short
+Warning: 108th data is too short
+Warning: 151th data is too short
+Warning: 440th data is too short
+Accuracy: 0.8126693548387097 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 50, 'dataset_datapoints_num': 500}
+Success: gpt2-medium, 50, 500
+Warning: 206th data is too short
+Warning: 336th data is too short
+Warning: 530th data is too short
+Warning: 559th data is too short
+Warning: 695th data is too short
+Accuracy: 0.8297447236180905 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 50, 'dataset_datapoints_num': 1000}
+Success: gpt2-medium, 50, 1000
+Warning: 434th data is too short
+Warning: 782th data is too short
+Warning: 888th data is too short
+Warning: 1185th data is too short
+Warning: 1653th data is too short
+Warning: 1714th data is too short
+Accuracy: 0.8457472417251756 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 50, 'dataset_datapoints_num': 2000}
+Success: gpt2-medium, 50, 2000
+Warning: 9th data is too short
+Accuracy: 0.652 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 100, 'dataset_datapoints_num': 10}
+Success: gpt2-medium, 100, 10
+Warning: 20th data is too short
+Warning: 41th data is too short
+Accuracy: 0.7491666666666666 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 100, 'dataset_datapoints_num': 50}
+Success: gpt2-medium, 100, 50
+Warning: 16th data is too short
+Warning: 30th data is too short
+Warning: 84th data is too short
+Warning: 86th data is too short
+Warning: 90th data is too short
+Accuracy: 0.8316210526315789 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 100, 'dataset_datapoints_num': 100}
+Success: gpt2-medium, 100, 100
+Warning: 3th data is too short
+Warning: 16th data is too short
+Warning: 26th data is too short
+Warning: 37th data is too short
+Warning: 57th data is too short
+Warning: 70th data is too short
+Warning: 78th data is too short
+Warning: 84th data is too short
+Warning: 91th data is too short
+Warning: 95th data is too short
+Warning: 110th data is too short
+Warning: 130th data is too short
+Warning: 192th data is too short
+Warning: 217th data is too short
+Warning: 218th data is too short
+Warning: 236th data is too short
+Accuracy: 0.6749401709401709 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 100, 'dataset_datapoints_num': 250}
+Success: gpt2-medium, 100, 250
+Warning: 0th data is too short
+Warning: 24th data is too short
+Warning: 30th data is too short
+Warning: 84th data is too short
+Warning: 90th data is too short
+Warning: 102th data is too short
+Warning: 156th data is too short
+Warning: 157th data is too short
+Warning: 165th data is too short
+Warning: 166th data is too short
+Warning: 170th data is too short
+Warning: 174th data is too short
+Warning: 183th data is too short
+Warning: 190th data is too short
+Warning: 218th data is too short
+Warning: 219th data is too short
+Warning: 221th data is too short
+Warning: 242th data is too short
+Warning: 245th data is too short
+Warning: 262th data is too short
+Warning: 276th data is too short
+Warning: 286th data is too short
+Warning: 289th data is too short
+Warning: 292th data is too short
+Warning: 345th data is too short
+Warning: 355th data is too short
+Warning: 369th data is too short
+Warning: 370th data is too short
+Warning: 389th data is too short
+Warning: 396th data is too short
+Warning: 414th data is too short
+Warning: 427th data is too short
+Warning: 451th data is too short
+Warning: 457th data is too short
+Warning: 464th data is too short
+Warning: 477th data is too short
+Warning: 494th data is too short
+Accuracy: 0.7619913606911447 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 100, 'dataset_datapoints_num': 500}
+Success: gpt2-medium, 100, 500
+Warning: 27th data is too short
+Warning: 28th data is too short
+Warning: 54th data is too short
+Warning: 77th data is too short
+Warning: 93th data is too short
+Warning: 96th data is too short
+Warning: 107th data is too short
+Warning: 124th data is too short
+Warning: 125th data is too short
+Warning: 139th data is too short
+Warning: 193th data is too short
+Warning: 207th data is too short
+Warning: 211th data is too short
+Warning: 254th data is too short
+Warning: 272th data is too short
+Warning: 288th data is too short
+Warning: 308th data is too short
+Warning: 309th data is too short
+Warning: 343th data is too short
+Warning: 354th data is too short
+Warning: 368th data is too short
+Warning: 369th data is too short
+Warning: 399th data is too short
+Warning: 409th data is too short
+Warning: 416th data is too short
+Warning: 431th data is too short
+Warning: 449th data is too short
+Warning: 453th data is too short
+Warning: 455th data is too short
+Warning: 499th data is too short
+Warning: 500th data is too short
+Warning: 504th data is too short
+Warning: 516th data is too short
+Warning: 521th data is too short
+Warning: 536th data is too short
+Warning: 540th data is too short
+Warning: 548th data is too short
+Warning: 555th data is too short
+Warning: 561th data is too short
+Warning: 565th data is too short
+Warning: 617th data is too short
+Warning: 685th data is too short
+Warning: 708th data is too short
+Warning: 745th data is too short
+Warning: 773th data is too short
+Warning: 795th data is too short
+Warning: 798th data is too short
+Warning: 801th data is too short
+Warning: 804th data is too short
+Warning: 805th data is too short
+Warning: 815th data is too short
+Warning: 817th data is too short
+Warning: 840th data is too short
+Warning: 859th data is too short
+Warning: 868th data is too short
+Warning: 870th data is too short
+Warning: 874th data is too short
+Warning: 907th data is too short
+Warning: 926th data is too short
+Warning: 929th data is too short
+Warning: 939th data is too short
+Warning: 950th data is too short
+Warning: 965th data is too short
+Warning: 983th data is too short
+Warning: 987th data is too short
+Warning: 990th data is too short
+Accuracy: 0.7167773019271949 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 100, 'dataset_datapoints_num': 1000}
+Success: gpt2-medium, 100, 1000
+Warning: 27th data is too short
+Warning: 53th data is too short
+Warning: 68th data is too short
+Warning: 76th data is too short
+Warning: 98th data is too short
+Warning: 149th data is too short
+Warning: 154th data is too short
+Warning: 169th data is too short
+Warning: 179th data is too short
+Warning: 194th data is too short
+Warning: 197th data is too short
+Warning: 209th data is too short
+Warning: 210th data is too short
+Warning: 217th data is too short
+Warning: 236th data is too short
+Warning: 250th data is too short
+Warning: 264th data is too short
+Warning: 269th data is too short
+Warning: 309th data is too short
+Warning: 315th data is too short
+Warning: 318th data is too short
+Warning: 326th data is too short
+Warning: 372th data is too short
+Warning: 374th data is too short
+Warning: 389th data is too short
+Warning: 392th data is too short
+Warning: 411th data is too short
+Warning: 418th data is too short
+Warning: 419th data is too short
+Warning: 436th data is too short
+Warning: 465th data is too short
+Warning: 466th data is too short
+Warning: 472th data is too short
+Warning: 473th data is too short
+Warning: 485th data is too short
+Warning: 526th data is too short
+Warning: 550th data is too short
+Warning: 559th data is too short
+Warning: 568th data is too short
+Warning: 574th data is too short
+Warning: 579th data is too short
+Warning: 583th data is too short
+Warning: 617th data is too short
+Warning: 620th data is too short
+Warning: 630th data is too short
+Warning: 633th data is too short
+Warning: 659th data is too short
+Warning: 663th data is too short
+Warning: 673th data is too short
+Warning: 676th data is too short
+Warning: 691th data is too short
+Warning: 740th data is too short
+Warning: 761th data is too short
+Warning: 766th data is too short
+Warning: 780th data is too short
+Warning: 792th data is too short
+Warning: 801th data is too short
+Warning: 804th data is too short
+Warning: 815th data is too short
+Warning: 826th data is too short
+Warning: 837th data is too short
+Warning: 867th data is too short
+Warning: 871th data is too short
+Warning: 901th data is too short
+Warning: 935th data is too short
+Warning: 937th data is too short
+Warning: 938th data is too short
+Warning: 942th data is too short
+Warning: 960th data is too short
+Warning: 965th data is too short
+Warning: 974th data is too short
+Warning: 979th data is too short
+Warning: 1061th data is too short
+Warning: 1077th data is too short
+Warning: 1112th data is too short
+Warning: 1115th data is too short
+Warning: 1147th data is too short
+Warning: 1171th data is too short
+Warning: 1172th data is too short
+Warning: 1179th data is too short
+Warning: 1193th data is too short
+Warning: 1194th data is too short
+Warning: 1196th data is too short
+Warning: 1224th data is too short
+Warning: 1267th data is too short
+Warning: 1269th data is too short
+Warning: 1283th data is too short
+Warning: 1351th data is too short
+Warning: 1366th data is too short
+Warning: 1377th data is too short
+Warning: 1386th data is too short
+Warning: 1434th data is too short
+Warning: 1465th data is too short
+Warning: 1468th data is too short
+Warning: 1474th data is too short
+Warning: 1485th data is too short
+Warning: 1490th data is too short
+Warning: 1491th data is too short
+Warning: 1494th data is too short
+Warning: 1500th data is too short
+Warning: 1533th data is too short
+Warning: 1557th data is too short
+Warning: 1571th data is too short
+Warning: 1612th data is too short
+Warning: 1615th data is too short
+Warning: 1617th data is too short
+Warning: 1642th data is too short
+Warning: 1646th data is too short
+Warning: 1657th data is too short
+Warning: 1674th data is too short
+Warning: 1682th data is too short
+Warning: 1695th data is too short
+Warning: 1731th data is too short
+Warning: 1755th data is too short
+Warning: 1779th data is too short
+Warning: 1801th data is too short
+Warning: 1804th data is too short
+Warning: 1827th data is too short
+Warning: 1828th data is too short
+Warning: 1831th data is too short
+Warning: 1842th data is too short
+Warning: 1844th data is too short
+Warning: 1848th data is too short
+Warning: 1878th data is too short
+Warning: 1890th data is too short
+Warning: 1940th data is too short
+Warning: 1967th data is too short
+Warning: 1972th data is too short
+Warning: 1974th data is too short
+Warning: 1986th data is too short
+Warning: 1996th data is too short
+Accuracy: 0.842848582129481 cfg =  {'model_name': 'gpt2-medium', 'inference_max_len': 100, 'dataset_datapoints_num': 2000}
+Success: gpt2-medium, 100, 2000
+Accuracy: 0.12837837837837837 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 10, 'dataset_datapoints_num': 10}
+Success: gpt2-large, 10, 10
+Accuracy: 0.33432432432432435 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 10, 'dataset_datapoints_num': 50}
+Success: gpt2-large, 10, 50
+Accuracy: 0.442972972972973 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 10, 'dataset_datapoints_num': 100}
+Success: gpt2-large, 10, 100
+Accuracy: 0.5644864864864865 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 10, 'dataset_datapoints_num': 250}
+Success: gpt2-large, 10, 250
+Accuracy: 0.6218108108108108 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 10, 'dataset_datapoints_num': 500}
+Success: gpt2-large, 10, 500
+Accuracy: 0.5470405405405405 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 10, 'dataset_datapoints_num': 1000}
+Success: gpt2-large, 10, 1000
+Accuracy: 0.622804054054054 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 10, 'dataset_datapoints_num': 2000}
+Success: gpt2-large, 10, 2000
+Accuracy: 0.20608108108108109 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 20, 'dataset_datapoints_num': 10}
+Success: gpt2-large, 20, 10
+Accuracy: 0.4660810810810811 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 20, 'dataset_datapoints_num': 50}
+Success: gpt2-large, 20, 50
+Accuracy: 0.5681081081081081 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 20, 'dataset_datapoints_num': 100}
+Success: gpt2-large, 20, 100
+Accuracy: 0.6226756756756757 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 20, 'dataset_datapoints_num': 250}
+Success: gpt2-large, 20, 250
+Accuracy: 0.584554054054054 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 20, 'dataset_datapoints_num': 500}
+Success: gpt2-large, 20, 500
+Accuracy: 0.6793378378378379 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 20, 'dataset_datapoints_num': 1000}
+Success: gpt2-large, 20, 1000
+Accuracy: 0.7329290540540541 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 20, 'dataset_datapoints_num': 2000}
+Success: gpt2-large, 20, 2000
+Accuracy: 0.2756756756756757 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 30, 'dataset_datapoints_num': 10}
+Success: gpt2-large, 30, 10
+Accuracy: 0.5375675675675675 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 30, 'dataset_datapoints_num': 50}
+Success: gpt2-large, 30, 50
+Accuracy: 0.5995045045045045 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 30, 'dataset_datapoints_num': 100}
+Success: gpt2-large, 30, 100
+Accuracy: 0.6665225225225225 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 30, 'dataset_datapoints_num': 250}
+Success: gpt2-large, 30, 250
+Accuracy: 0.705963963963964 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 30, 'dataset_datapoints_num': 500}
+Success: gpt2-large, 30, 500
+Warning: 184th data is too short
+Accuracy: 0.7319075832589346 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 30, 'dataset_datapoints_num': 1000}
+Success: gpt2-large, 30, 1000
+Warning: 334th data is too short
+Accuracy: 0.7486062851245443 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 30, 'dataset_datapoints_num': 2000}
+Success: gpt2-large, 30, 2000
+Accuracy: 0.28986486486486485 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 40, 'dataset_datapoints_num': 10}
+Success: gpt2-large, 40, 10
+Accuracy: 0.5788513513513514 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 40, 'dataset_datapoints_num': 50}
+Success: gpt2-large, 40, 50
+Warning: 59th data is too short
+Warning: 89th data is too short
+Accuracy: 0.5928364589078875 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 40, 'dataset_datapoints_num': 100}
+Success: gpt2-large, 40, 100
+Accuracy: 0.591972972972973 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 40, 'dataset_datapoints_num': 250}
+Success: gpt2-large, 40, 250
+Accuracy: 0.70675 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 40, 'dataset_datapoints_num': 500}
+Success: gpt2-large, 40, 500
+Warning: 456th data is too short
+Warning: 587th data is too short
+Accuracy: 0.6805164382819694 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 40, 'dataset_datapoints_num': 1000}
+Success: gpt2-large, 40, 1000
+Warning: 314th data is too short
+Warning: 316th data is too short
+Warning: 364th data is too short
+Warning: 741th data is too short
+Warning: 888th data is too short
+Warning: 1232th data is too short
+Warning: 1692th data is too short
+Accuracy: 0.7807664664162406 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 40, 'dataset_datapoints_num': 2000}
+Success: gpt2-large, 40, 2000
+Accuracy: 0.3535135135135135 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 50, 'dataset_datapoints_num': 10}
+Success: gpt2-large, 50, 10
+Warning: 0th data is too short
+Accuracy: 0.5880860452289024 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 50, 'dataset_datapoints_num': 50}
+Success: gpt2-large, 50, 50
+Warning: 33th data is too short
+Accuracy: 0.6232869232869233 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 50, 'dataset_datapoints_num': 100}
+Success: gpt2-large, 50, 100
+Warning: 83th data is too short
+Accuracy: 0.6949527841094106 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 50, 'dataset_datapoints_num': 250}
+Success: gpt2-large, 50, 250
+Warning: 197th data is too short
+Warning: 291th data is too short
+Accuracy: 0.7090524259198958 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 50, 'dataset_datapoints_num': 500}
+Success: gpt2-large, 50, 500
+Warning: 23th data is too short
+Warning: 68th data is too short
+Warning: 328th data is too short
+Warning: 382th data is too short
+Warning: 503th data is too short
+Warning: 507th data is too short
+Warning: 839th data is too short
+Accuracy: 0.6358618437168286 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 50, 'dataset_datapoints_num': 1000}
+Success: gpt2-large, 50, 1000
+Warning: 51th data is too short
+Warning: 563th data is too short
+Warning: 898th data is too short
+Warning: 1035th data is too short
+Warning: 1165th data is too short
+Warning: 1565th data is too short
+Accuracy: 0.7956369107321966 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 50, 'dataset_datapoints_num': 2000}
+Success: gpt2-large, 50, 2000
+Warning: 4th data is too short
+Warning: 7th data is too short
+Accuracy: 0.5581081081081081 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 100, 'dataset_datapoints_num': 10}
+Success: gpt2-large, 100, 10
+Warning: 2th data is too short
+Warning: 32th data is too short
+Warning: 39th data is too short
+Warning: 48th data is too short
+Accuracy: 0.6382491186839013 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 100, 'dataset_datapoints_num': 50}
+Success: gpt2-large, 100, 50
+Warning: 6th data is too short
+Warning: 28th data is too short
+Warning: 29th data is too short
+Warning: 31th data is too short
+Warning: 35th data is too short
+Warning: 42th data is too short
+Warning: 84th data is too short
+Warning: 92th data is too short
+Warning: 98th data is too short
+Accuracy: 0.6822542322542322 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 100, 'dataset_datapoints_num': 100}
+Success: gpt2-large, 100, 100
+Warning: 2th data is too short
+Warning: 12th data is too short
+Warning: 36th data is too short
+Warning: 76th data is too short
+Warning: 106th data is too short
+Warning: 110th data is too short
+Warning: 127th data is too short
+Warning: 140th data is too short
+Warning: 144th data is too short
+Warning: 146th data is too short
+Warning: 164th data is too short
+Warning: 178th data is too short
+Warning: 228th data is too short
+Warning: 230th data is too short
+Accuracy: 0.563593678424187 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 100, 'dataset_datapoints_num': 250}
+Success: gpt2-large, 100, 250
+Warning: 2th data is too short
+Warning: 18th data is too short
+Warning: 22th data is too short
+Warning: 46th data is too short
+Warning: 56th data is too short
+Warning: 68th data is too short
+Warning: 107th data is too short
+Warning: 116th data is too short
+Warning: 131th data is too short
+Warning: 159th data is too short
+Warning: 163th data is too short
+Warning: 177th data is too short
+Warning: 188th data is too short
+Warning: 202th data is too short
+Warning: 216th data is too short
+Warning: 239th data is too short
+Warning: 248th data is too short
+Warning: 267th data is too short
+Warning: 279th data is too short
+Warning: 287th data is too short
+Warning: 292th data is too short
+Warning: 306th data is too short
+Warning: 359th data is too short
+Warning: 370th data is too short
+Warning: 379th data is too short
+Warning: 390th data is too short
+Warning: 401th data is too short
+Warning: 408th data is too short
+Warning: 456th data is too short
+Warning: 468th data is too short
+Warning: 491th data is too short
+Accuracy: 0.6893274938051057 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 100, 'dataset_datapoints_num': 500}
+Success: gpt2-large, 100, 500
+Warning: 1th data is too short
+Warning: 30th data is too short
+Warning: 33th data is too short
+Warning: 35th data is too short
+Warning: 63th data is too short
+Warning: 68th data is too short
+Warning: 72th data is too short
+Warning: 73th data is too short
+Warning: 82th data is too short
+Warning: 85th data is too short
+Warning: 99th data is too short
+Warning: 108th data is too short
+Warning: 134th data is too short
+Warning: 136th data is too short
+Warning: 139th data is too short
+Warning: 153th data is too short
+Warning: 173th data is too short
+Warning: 178th data is too short
+Warning: 186th data is too short
+Warning: 197th data is too short
+Warning: 207th data is too short
+Warning: 224th data is too short
+Warning: 240th data is too short
+Warning: 241th data is too short
+Warning: 245th data is too short
+Warning: 248th data is too short
+Warning: 280th data is too short
+Warning: 309th data is too short
+Warning: 313th data is too short
+Warning: 314th data is too short
+Warning: 315th data is too short
+Warning: 320th data is too short
+Warning: 321th data is too short
+Warning: 329th data is too short
+Warning: 335th data is too short
+Warning: 337th data is too short
+Warning: 351th data is too short
+Warning: 366th data is too short
+Warning: 377th data is too short
+Warning: 403th data is too short
+Warning: 416th data is too short
+Warning: 438th data is too short
+Warning: 449th data is too short
+Warning: 505th data is too short
+Warning: 530th data is too short
+Warning: 540th data is too short
+Warning: 557th data is too short
+Warning: 561th data is too short
+Warning: 567th data is too short
+Warning: 576th data is too short
+Warning: 594th data is too short
+Warning: 598th data is too short
+Warning: 605th data is too short
+Warning: 621th data is too short
+Warning: 637th data is too short
+Warning: 650th data is too short
+Warning: 674th data is too short
+Warning: 675th data is too short
+Warning: 726th data is too short
+Warning: 734th data is too short
+Warning: 758th data is too short
+Warning: 801th data is too short
+Warning: 806th data is too short
+Warning: 812th data is too short
+Warning: 815th data is too short
+Warning: 830th data is too short
+Warning: 871th data is too short
+Warning: 882th data is too short
+Warning: 924th data is too short
+Warning: 952th data is too short
+Warning: 954th data is too short
+Warning: 959th data is too short
+Warning: 960th data is too short
+Warning: 984th data is too short
+Accuracy: 0.7496614324908062 cfg =  {'model_name': 'gpt2-large', 'inference_max_len': 100, 'dataset_datapoints_num': 1000}
+Success: gpt2-large, 100, 1000
+Warning: 13th data is too short
+Warning: 20th data is too short
+Warning: 26th data is too short
+Warning: 38th data is too short
+Warning: 52th data is too short
+Warning: 89th data is too short
+Warning: 92th data is too short
+Warning: 113th data is too short
+Warning: 137th data is too short
+Warning: 187th data is too short
+Warning: 194th data is too short
+Warning: 197th data is too short
+Warning: 201th data is too short
+Warning: 209th data is too short
+Warning: 215th data is too short
+Warning: 242th data is too short
+Warning: 287th data is too short
+Warning: 303th data is too short
+Warning: 304th data is too short
+Warning: 313th data is too short
+Warning: 321th data is too short
+Warning: 325th data is too short
+Warning: 332th data is too short
+Warning: 337th data is too short
+Warning: 345th data is too short
+Warning: 348th data is too short
+Warning: 364th data is too short
+Warning: 367th data is too short
+Warning: 370th data is too short
+Warning: 376th data is too short
+Warning: 380th data is too short
+Warning: 395th data is too short
+Warning: 424th data is too short
+Warning: 437th data is too short
+Warning: 446th data is too short
+Warning: 462th data is too short
+Warning: 463th data is too short
+Warning: 470th data is too short
+Warning: 493th data is too short
+Warning: 503th data is too short
+Warning: 548th data is too short
+Warning: 567th data is too short
+Warning: 574th data is too short
+Warning: 594th data is too short
+Warning: 596th data is too short
+Warning: 613th data is too short
+Warning: 641th data is too short
+Warning: 646th data is too short
+Warning: 660th data is too short
+Warning: 727th data is too short
+Warning: 767th data is too short
+Warning: 769th data is too short
+Warning: 791th data is too short
+Warning: 796th data is too short
+Warning: 804th data is too short
+Warning: 817th data is too short
+Warning: 831th data is too short
+Warning: 840th data is too short
+Warning: 879th data is too short
+Warning: 883th data is too short
+Warning: 886th data is too short
+Warning: 904th data is too short
+Warning: 931th data is too short
+Warning: 945th data is too short
+Warning: 978th data is too short
+Warning: 985th data is too short
+Warning: 996th data is too short
+Warning: 1014th data is too short
+Warning: 1033th data is too short
+Warning: 1048th data is too short
+Warning: 1049th data is too short
+Warning: 1051th data is too short
+Warning: 1052th data is too short
+Warning: 1062th data is too short
+Warning: 1066th data is too short
+Warning: 1073th data is too short
+Warning: 1088th data is too short
+Warning: 1100th data is too short
+Warning: 1104th data is too short
+Warning: 1119th data is too short
+Warning: 1127th data is too short
+Warning: 1137th data is too short
+Warning: 1163th data is too short
+Warning: 1165th data is too short
+Warning: 1174th data is too short
+Warning: 1177th data is too short
+Warning: 1184th data is too short
+Warning: 1189th data is too short
+Warning: 1215th data is too short
+Warning: 1222th data is too short
+Warning: 1242th data is too short
+Warning: 1247th data is too short
+Warning: 1258th data is too short
+Warning: 1259th data is too short
+Warning: 1277th data is too short
+Warning: 1304th data is too short
+Warning: 1347th data is too short
+Warning: 1348th data is too short
+Warning: 1351th data is too short
+Warning: 1375th data is too short
+Warning: 1406th data is too short
+Warning: 1436th data is too short
+Warning: 1446th data is too short
+Warning: 1454th data is too short
+Warning: 1458th data is too short
+Warning: 1476th data is too short
+Warning: 1497th data is too short
+Warning: 1508th data is too short
+Warning: 1509th data is too short
+Warning: 1529th data is too short
+Warning: 1538th data is too short
+Warning: 1544th data is too short
+Warning: 1562th data is too short
+Warning: 1563th data is too short
+Warning: 1574th data is too short
+Warning: 1579th data is too short
+Warning: 1592th data is too short
+Warning: 1610th data is too short
+Warning: 1615th data is too short
+Warning: 1631th data is too short
+Warning: 1646th data is too short
+Warning: 1648th data is too short
+Warning: 1655th data is too short
+Warning: 1658th data is too short
+Warning: 1665th data is too short
+Warning: 1666th data is too short
+Warning: 1724th data is too short
+Warning: 1758th data is too short
+Warning: 1761th data is too short
+Warning: 1765th data is too short
+Warning: 1773th data is too short
+Warning: 1796th data is too short
+Warning: 1800th data is too short
+Warning: 1809th data is too short
+Warning: 1820th data is too short
+Warning: 1834th data is too short
+Warning: 1841th data is too short
+Warning: 1860th data is too short
+Warning: 1875th data is too short
+Warning: 1894th data is too short
+Warning: 1911th data is too short
+Warning: 1966th data is too short
+Warning: 1975th data is too short
+Error: gpt2-large, 100, 2000
+Accuracy: 0.10510204081632653 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 10, 'dataset_datapoints_num': 10}
+Success: gpt2-xl, 10, 10
+Accuracy: 0.2612244897959184 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 10, 'dataset_datapoints_num': 50}
+Success: gpt2-xl, 10, 50
+Accuracy: 0.37642857142857145 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 10, 'dataset_datapoints_num': 100}
+Success: gpt2-xl, 10, 100
+Accuracy: 0.4843265306122449 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 10, 'dataset_datapoints_num': 250}
+Success: gpt2-xl, 10, 250
+Accuracy: 0.5515918367346939 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 10, 'dataset_datapoints_num': 500}
+Success: gpt2-xl, 10, 500
+Accuracy: 0.5964897959183674 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 10, 'dataset_datapoints_num': 1000}
+Success: gpt2-xl, 10, 1000
+Accuracy: 0.6503877551020408 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 10, 'dataset_datapoints_num': 2000}
+Success: gpt2-xl, 10, 2000
+Accuracy: 0.14846938775510204 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 20, 'dataset_datapoints_num': 10}
+Success: gpt2-xl, 20, 10
+Accuracy: 0.37979591836734694 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 20, 'dataset_datapoints_num': 50}
+Success: gpt2-xl, 20, 50
+Accuracy: 0.4498469387755102 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 20, 'dataset_datapoints_num': 100}
+Success: gpt2-xl, 20, 100
+Accuracy: 0.5814285714285714 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 20, 'dataset_datapoints_num': 250}
+Success: gpt2-xl, 20, 250
+Accuracy: 0.610265306122449 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 20, 'dataset_datapoints_num': 500}
+Success: gpt2-xl, 20, 500
+Accuracy: 0.6301836734693878 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 20, 'dataset_datapoints_num': 1000}
+Success: gpt2-xl, 20, 1000
+Warning: 1507th data is too short
+Accuracy: 0.6789517207583383 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 20, 'dataset_datapoints_num': 2000}
+Success: gpt2-xl, 20, 2000
+Accuracy: 0.2064625850340136 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 30, 'dataset_datapoints_num': 10}
+Success: gpt2-xl, 30, 10
+Accuracy: 0.5157142857142857 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 30, 'dataset_datapoints_num': 50}
+Success: gpt2-xl, 30, 50
+Accuracy: 0.5478571428571428 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 30, 'dataset_datapoints_num': 100}
+Success: gpt2-xl, 30, 100
+Accuracy: 0.5885714285714285 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 30, 'dataset_datapoints_num': 250}
+Success: gpt2-xl, 30, 250
+Accuracy: 0.5792244897959183 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 30, 'dataset_datapoints_num': 500}
+Success: gpt2-xl, 30, 500
+Accuracy: 0.6460102040816327 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 30, 'dataset_datapoints_num': 1000}
+Success: gpt2-xl, 30, 1000
+Warning: 263th data is too short
+Warning: 695th data is too short
+Accuracy: 0.6932629908820385 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 30, 'dataset_datapoints_num': 2000}
+Success: gpt2-xl, 30, 2000
+Accuracy: 0.2711734693877551 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 40, 'dataset_datapoints_num': 10}
+Success: gpt2-xl, 40, 10
+Accuracy: 0.509795918367347 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 40, 'dataset_datapoints_num': 50}
+Success: gpt2-xl, 40, 50
+Accuracy: 0.5573724489795918 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 40, 'dataset_datapoints_num': 100}
+Success: gpt2-xl, 40, 100
+Accuracy: 0.6103979591836735 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 40, 'dataset_datapoints_num': 250}
+Success: gpt2-xl, 40, 250
+Accuracy: 0.6680204081632654 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 40, 'dataset_datapoints_num': 500}
+Success: gpt2-xl, 40, 500
+Warning: 205th data is too short
+Warning: 601th data is too short
+Warning: 962th data is too short
+Accuracy: 0.662200888379424 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 40, 'dataset_datapoints_num': 1000}
+Success: gpt2-xl, 40, 1000
+Warning: 370th data is too short
+Warning: 593th data is too short
+Warning: 1534th data is too short
+Warning: 1811th data is too short
+Warning: 1882th data is too short
+Error: gpt2-xl, 40, 2000
+Accuracy: 0.3469387755102041 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 50, 'dataset_datapoints_num': 10}
+Success: gpt2-xl, 50, 10
+Accuracy: 0.5208979591836734 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 50, 'dataset_datapoints_num': 50}
+Success: gpt2-xl, 50, 50
+Accuracy: 0.5394285714285715 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 50, 'dataset_datapoints_num': 100}
+Success: gpt2-xl, 50, 100
+Warning: 22th data is too short
+Accuracy: 0.6182034259486927 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 50, 'dataset_datapoints_num': 250}
+Success: gpt2-xl, 50, 250
+Warning: 183th data is too short
+Warning: 196th data is too short
+Warning: 407th data is too short
+Accuracy: 0.6112470742824293 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 50, 'dataset_datapoints_num': 500}
+Success: gpt2-xl, 50, 500
+Warning: 128th data is too short
+Warning: 187th data is too short
+Warning: 205th data is too short
+Warning: 342th data is too short
+Warning: 678th data is too short
+Warning: 941th data is too short
+Accuracy: 0.6875723730135918 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 50, 'dataset_datapoints_num': 1000}
+Success: gpt2-xl, 50, 1000
+Warning: 144th data is too short
+Warning: 416th data is too short
+Warning: 622th data is too short
+Warning: 782th data is too short
+Warning: 873th data is too short
+Warning: 1086th data is too short
+Warning: 1175th data is too short
+Warning: 1315th data is too short
+Warning: 1322th data is too short
+Warning: 1569th data is too short
+Warning: 1856th data is too short
+Error: gpt2-xl, 50, 2000
+Accuracy: 0.5466326530612244 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 100, 'dataset_datapoints_num': 10}
+Success: gpt2-xl, 100, 10
+Warning: 1th data is too short
+Warning: 4th data is too short
+Warning: 8th data is too short
+Warning: 42th data is too short
+Warning: 49th data is too short
+Accuracy: 0.5890022675736961 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 100, 'dataset_datapoints_num': 50}
+Success: gpt2-xl, 100, 50
+Warning: 3th data is too short
+Warning: 9th data is too short
+Warning: 11th data is too short
+Warning: 19th data is too short
+Warning: 37th data is too short
+Warning: 98th data is too short
+Accuracy: 0.634607034303083 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 100, 'dataset_datapoints_num': 100}
+Success: gpt2-xl, 100, 100
+Warning: 1th data is too short
+Warning: 13th data is too short
+Warning: 15th data is too short
+Warning: 18th data is too short
+Warning: 25th data is too short
+Warning: 27th data is too short
+Warning: 42th data is too short
+Warning: 100th data is too short
+Warning: 107th data is too short
+Warning: 172th data is too short
+Warning: 181th data is too short
+Warning: 244th data is too short
+Accuracy: 0.5659535242668496 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 100, 'dataset_datapoints_num': 250}
+Success: gpt2-xl, 100, 250
+Warning: 12th data is too short
+Warning: 41th data is too short
+Warning: 57th data is too short
+Warning: 66th data is too short
+Warning: 68th data is too short
+Warning: 105th data is too short
+Warning: 147th data is too short
+Warning: 161th data is too short
+Warning: 177th data is too short
+Warning: 197th data is too short
+Warning: 202th data is too short
+Warning: 209th data is too short
+Warning: 231th data is too short
+Warning: 235th data is too short
+Warning: 268th data is too short
+Warning: 278th data is too short
+Warning: 285th data is too short
+Warning: 305th data is too short
+Warning: 308th data is too short
+Warning: 319th data is too short
+Warning: 358th data is too short
+Warning: 366th data is too short
+Warning: 372th data is too short
+Warning: 393th data is too short
+Warning: 397th data is too short
+Warning: 405th data is too short
+Warning: 412th data is too short
+Warning: 497th data is too short
+Accuracy: 0.6344258042199931 cfg =  {'model_name': 'gpt2-xl', 'inference_max_len': 100, 'dataset_datapoints_num': 500}
+Success: gpt2-xl, 100, 500
+Warning: 9th data is too short
+Warning: 42th data is too short
+Warning: 52th data is too short
+Warning: 64th data is too short
+Warning: 93th data is too short
+Warning: 111th data is too short
+Warning: 132th data is too short
+Warning: 136th data is too short
+Warning: 142th data is too short
+Warning: 181th data is too short
+Warning: 193th data is too short
+Warning: 206th data is too short
+Warning: 220th data is too short
+Warning: 227th data is too short
+Warning: 233th data is too short
+Warning: 238th data is too short
+Warning: 255th data is too short
+Warning: 270th data is too short
+Warning: 280th data is too short
+Warning: 293th data is too short
+Warning: 294th data is too short
+Warning: 302th data is too short
+Warning: 311th data is too short
+Warning: 324th data is too short
+Warning: 329th data is too short
+Warning: 352th data is too short
+Warning: 358th data is too short
+Warning: 363th data is too short
+Warning: 404th data is too short
+Warning: 407th data is too short
+Warning: 411th data is too short
+Warning: 426th data is too short
+Warning: 431th data is too short
+Warning: 434th data is too short
+Warning: 444th data is too short
+Warning: 447th data is too short
+Warning: 455th data is too short
+Warning: 477th data is too short
+Warning: 482th data is too short
+Warning: 487th data is too short
+Warning: 514th data is too short
+Warning: 519th data is too short
+Warning: 532th data is too short
+Warning: 534th data is too short
+Warning: 542th data is too short
+Warning: 559th data is too short
+Warning: 606th data is too short
+Warning: 661th data is too short
+Warning: 683th data is too short
+Warning: 704th data is too short
+Warning: 725th data is too short
+Warning: 737th data is too short
+Warning: 739th data is too short
+Warning: 766th data is too short
+Warning: 778th data is too short
+Warning: 783th data is too short
+Warning: 802th data is too short
+Warning: 841th data is too short
+Warning: 846th data is too short
+Warning: 854th data is too short
+Warning: 862th data is too short
+Warning: 870th data is too short
+Warning: 876th data is too short
+Warning: 891th data is too short
+Warning: 905th data is too short
+Warning: 907th data is too short
+Warning: 922th data is too short
+Warning: 929th data is too short
+Warning: 937th data is too short
+Warning: 941th data is too short
+Warning: 959th data is too short
+Warning: 967th data is too short
+Warning: 970th data is too short
+Warning: 976th data is too short
+Warning: 986th data is too short
+Error: gpt2-xl, 100, 1000
+Error: gpt2-xl, 100, 2000

@@ -1,0 +1,5 @@
+__pycache__/
+.vscode/
+dataset/*
+!dataset/Pile2-processed.json
+!result/*
